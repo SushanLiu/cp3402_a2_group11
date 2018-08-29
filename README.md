@@ -2,8 +2,12 @@
 Assignment 2 in CP3402 for HealthPartners
 
 //Group Member:
+Cai Wei: 13403650
+Abhinav nigam: 13081779
+Ni Luhao: 13369250
+Liu Sushan: 13422162
 
-//Group Project
+//Group Project: HealthPartners
 
 //Project Struture
 
